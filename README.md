@@ -1,2 +1,2 @@
 # dareAPP
-Phone App about ddares
+Phone App about dares
